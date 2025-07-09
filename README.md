@@ -1,4 +1,4 @@
-# DSA Tracker by Chaitanya
+# DSA Tracker
 
 Welcome to DSA Tracker, a React-based application designed to help developers practice and master 100 Data Structures and Algorithms (DSA) questions to crack product-based company interviews. Built with [Create React App](https://create-react-app.dev/), this tool provides an interactive platform to track progress across various DSA topics.
 
